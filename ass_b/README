@@ -1,0 +1,5 @@
+Run the 'main.sh' script as shown below
+> ./main.sh
+
+This will print the statistics for the two dictionary implementations
+and will create two text files with the result for word concordance problem namely 'avl_result.txt' 'bst_result.txt'
